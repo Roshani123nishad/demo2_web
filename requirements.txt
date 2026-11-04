@@ -1,0 +1,7 @@
+streamlit==1.66.1
+
+
+streamlit-modal==0.1.0
+streamlit-option-menu==0.3.13
+streamlit-server-state==0.9.0
+pandas
